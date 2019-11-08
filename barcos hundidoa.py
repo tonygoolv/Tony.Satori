@@ -77,3 +77,4 @@ def verificarTablero():
     print(barcos)
     
 verificarTablero()
+
